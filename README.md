@@ -66,8 +66,3 @@ We respect and acknowledge all pronouns.
 KuttCoin is designed with an infinite supply to ensure continuous availability and growth, enabling us to welcome new users and enthusiasts into the world of cryptocurrency without limitation.
 
 ---
-
-Feel free to explore, contribute, and engage with our project. We’re excited to have you on this journey with us!
-
-Happy coding! 💻
-
