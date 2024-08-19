@@ -2,7 +2,7 @@
 
 Welcome to the official KuttCoin repository! 🚀
 
-**KuttCoin** is a revolutionary **MemoCoin** designed to operate across multiple blockchains, including BSC, Polygon, Ton, and Solana. Our vision is to create a widely-used digital currency for online service exchanges.
+**KuttCoin** is a revolutionary **MemeCoin** designed to operate across multiple blockchains, including BSC, Polygon, Ton, and Solana. Our vision is to create a widely-used digital currency for online service exchanges.
 
 ### 🌟 What is KuttCoin?
 - **Initial Price:** 0.00000000000001 USDT
