@@ -54,7 +54,7 @@ We are continuously exploring new technologies and trends in the blockchain spac
 - **Twitter:** https://twitter.com/KuttCoin
 - **Telegram:** https://t.me/kuttcoin
 - **Website:** https://kuttcoin.com
-- **Reddit:** https://www.reddit.com/r/kuttcoin/
+- **Reddit:** https://www.reddit.com/user/kuttcoin/
 - **github:** https://github.com/kuttcoin
 
 ### 📈 Upcoming Listings
