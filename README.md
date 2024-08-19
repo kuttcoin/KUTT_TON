@@ -9,6 +9,16 @@ Welcome to the official KuttCoin repository! 🚀
 - **Total Supply:** Infinite
 - **Purpose:** To facilitate the exchange of services online and to build a vast community of users.
 
+- **Contract Polygon:** https://polygonscan.com/token/0xf47B03D14D642060c2873420E7D8B1538aa5F6b3
+
+- **Contract BSC:** https://bscscan.com/token/0xD89ACD61Da71AA51843D78133aDeD533eEE81966
+
+- **Contract Ton:** Contract details not yet available
+
+- **Contract Solana:** Contract details not yet available
+
+- **Contract ETH:** Contract details not yet available
+
 The low initial price is designed to encourage widespread distribution, allowing holders to share KuttCoin with friends and acquaintances, thereby expanding our community and increasing adoption. With an infinite supply, KuttCoin ensures there are always tokens available for new users and enthusiasts in the cryptocurrency world.
 
 ### 🔭 What we're working on
@@ -39,9 +49,11 @@ We are continuously exploring new technologies and trends in the blockchain spac
 
 ### 📫 How to reach us
 - **Email:** contact@kuttcoin.com
-- **Twitter:** [@KuttCoin](https://twitter.com/KuttCoin)
-- **Telegram:** [Join our Telegram group](https://t.me/kuttcoin)
-- **Website:** [kuttcoin.com](https://kuttcoin.com)
+- **Twitter:** https://twitter.com/KuttCoin
+- **Telegram:** https://t.me/kuttcoin
+- **Website:** https://kuttcoin.com
+- **Reddit:** https://www.reddit.com/r/kuttcoin/
+- **github:** https://github.com/kuttcoin
 
 ### 📈 Upcoming Listings
 - **BitMart:** KuttCoin will be listed on BitMart starting from 01/11/2024 with trading pairs USDT and BTC.
