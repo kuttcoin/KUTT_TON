@@ -6,6 +6,8 @@ Welcome to the official KuttCoin repository! 🚀
 
 ### 🌟 What is KuttCoin?
 - **Initial Price:** 0.00000000000001 USDT
+- **Token Sale Start Date:** 22/08/2024
+- **Token Sale End Date:** 30/10/2024
 - **Total Supply:** Infinite
 - **Purpose:** To facilitate the exchange of services online and to build a vast community of users.
 
