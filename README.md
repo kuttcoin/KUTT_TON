@@ -8,7 +8,7 @@ Welcome to the official KuttCoin repository! 🚀
 
 - **Token Sale Start Date:** 22/08/2024
 - **Token Sale End Date:** 30/10/2024
-- **Total Supply:** Infinite
+- **Total Supply:** 1,000,000,000,000 KUTT
 - **Purpose:** To facilitate the exchange of services online and to build a vast community of users.
 - **Pre=Sale:** https://www.impulsefinance.org/launchpad/0:fcb394c21bfcada592a292d83e789dc3c796aacf7e49a497eba57bff53cea165
 
