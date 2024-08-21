@@ -15,7 +15,7 @@ Welcome to the official KuttCoin repository! 🚀
 
 - **Contract BSC:** https://bscscan.com/token/0xD89ACD61Da71AA51843D78133aDeD533eEE81966
 
-- **Contract Ton:** Contract details not yet available
+- **Contract Ton:** https://tonviewer.com/EQCGcF2amuyOthwF2PBN_qdKb-XXpR8Jbf3zRmS2ayLKcYzw
 
 - **Contract Solana:** Contract details not yet available
 
