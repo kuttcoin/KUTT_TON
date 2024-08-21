@@ -5,15 +5,16 @@ Welcome to the official KuttCoin repository! 🚀
 **KuttCoin** is a revolutionary **MemeCoin** designed to operate across multiple blockchains, including BSC, Polygon, Ton, and Solana. Our vision is to create a widely-used digital currency for online service exchanges.
 
 ### 🌟 What is KuttCoin?
-- **Initial Price:** 0.00000000000001 USDT
+
 - **Token Sale Start Date:** 22/08/2024
 - **Token Sale End Date:** 30/10/2024
 - **Total Supply:** Infinite
 - **Purpose:** To facilitate the exchange of services online and to build a vast community of users.
+-**Pre=Sale:** https://www.impulsefinance.org/launchpad/0:fcb394c21bfcada592a292d83e789dc3c796aacf7e49a497eba57bff53cea165
 
-- **Contract Polygon:** https://polygonscan.com/token/0xf47B03D14D642060c2873420E7D8B1538aa5F6b3
+- **Contract Polygon:** 0xf47B03D14D642060c2873420E7D8B1538aa5F6b3
 
-- **Contract BSC:** https://bscscan.com/token/0xD89ACD61Da71AA51843D78133aDeD533eEE81966
+- **Contract BSC:** 0xD89ACD61Da71AA51843D78133aDeD533eEE81966
 
 - **Contract Ton:** https://tonviewer.com/EQCGcF2amuyOthwF2PBN_qdKb-XXpR8Jbf3zRmS2ayLKcYzw
 
