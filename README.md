@@ -6,11 +6,11 @@ Welcome to the official KuttCoin repository! 🚀
 
 ### 🌟 What is KuttCoin?
 
-- **Token Sale Start Date:** 22/08/2024
-- **Token Sale End Date:** 30/10/2024
+- **Token Sale Start Date:** 22/08/2024 (**Sale Canceled**)
+- **Token Sale End Date:** 30/10/2024 (**Sale Canceled**)
 - **Total Supply:** 1,000,000,000,000 KUTT
 - **Purpose:** To facilitate the exchange of services online and to build a vast community of users.
-- **Pre=Sale:** https://www.impulsefinance.org/launchpad/0:fcb394c21bfcada592a292d83e789dc3c796aacf7e49a497eba57bff53cea165
+- **Pre=Sale:** (**Sale Canceled**) https://www.impulsefinance.org/launchpad/0:fcb394c21bfcada592a292d83e789dc3c796aacf7e49a497eba57bff53cea165 (**Sale Canceled**)
 
 - **Contract Polygon:** 0xf47B03D14D642060c2873420E7D8B1538aa5F6b3
 
@@ -57,6 +57,7 @@ We are continuously exploring new technologies and trends in the blockchain spac
 - **Website:** https://kuttcoin.com
 - **Reddit:** https://www.reddit.com/user/kuttcoin/
 - **github:** https://github.com/kuttcoin
+- **Discord Channel:** https://discord.gg/HHPNVkxDcs
 
 ### 📈 Upcoming Listings
 - **BitMart:** KuttCoin will be listed on BitMart starting from 01/11/2024 with trading pairs USDT and BTC.
