@@ -2,27 +2,21 @@
 
 Welcome to the official KuttCoin repository! 🚀
 
-**KuttCoin** is a revolutionary **MemeCoin** designed to operate across multiple blockchains, including BSC, Polygon, Ton, and Solana. Our vision is to create a widely-used digital currency for online service exchanges.
+**KuttCoin** is a revolutionary **MemeCoin** designed to operate across multiple blockchains.
 
 ### 🌟 What is KuttCoin?
 
-- **Token Sale Start Date:** 22/08/2024 (**Sale Canceled**)
-- **Token Sale End Date:** 30/10/2024 (**Sale Canceled**)
 - **Total Supply:** 1,000,000,000,000 KUTT
 - **Purpose:** To facilitate the exchange of services online and to build a vast community of users.
-- **Pre=Sale:** (**Sale Canceled**) https://www.impulsefinance.org/launchpad/0:fcb394c21bfcada592a292d83e789dc3c796aacf7e49a497eba57bff53cea165 (**Sale Canceled**)
-
-- **Contract Polygon:** 0xf47B03D14D642060c2873420E7D8B1538aa5F6b3
-
-- **Contract BSC:** 0xD89ACD61Da71AA51843D78133aDeD533eEE81966
-
 - **Contract Ton:** https://tonviewer.com/EQCGcF2amuyOthwF2PBN_qdKb-XXpR8Jbf3zRmS2ayLKcYzw
 
-- **Contract Solana:** Contract details not yet available
-
-- **Contract ETH:** Contract details not yet available
-
 The low initial price is designed to encourage widespread distribution, allowing holders to share KuttCoin with friends and acquaintances, thereby expanding our community and increasing adoption. With an infinite supply, KuttCoin ensures there are always tokens available for new users and enthusiasts in the cryptocurrency world.
+
+### 🪙 Mining KuttCoin
+
+- You can mine KuttCoin using our exclusive bot: @kuttcoin_bot! The bot mines 0.000000000000000001 KUTT every 5 seconds. Users can redeem their mined KUTT once they reach a balance of 1.5 KUTT.
+
+Get started with mining and be a part of the KuttCoin revolution!
 
 ### 🔭 What we're working on
 We are focused on:
@@ -51,11 +45,7 @@ We are continuously exploring new technologies and trends in the blockchain spac
 - Cryptocurrency trends and innovations.
 
 ### 📫 How to reach us
-- **Email:** contact@kuttcoin.com
-- **Twitter:** https://twitter.com/KuttCoin
 - **Telegram:** https://t.me/kuttcoin
-- **Website:** https://kuttcoin.com
-- **Reddit:** https://www.reddit.com/user/kuttcoin/
 - **github:** https://github.com/kuttcoin
 - **Discord Channel:** https://discord.gg/HHPNVkxDcs
 
