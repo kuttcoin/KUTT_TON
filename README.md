@@ -48,6 +48,7 @@ We are continuously exploring new technologies and trends in the blockchain spac
 - **Telegram:** https://t.me/kuttcoin
 - **github:** https://github.com/kuttcoin
 - **Discord Channel:** https://discord.gg/HHPNVkxDcs
+- **VK:** https://vk.com/kuttcoin
 
 ### 📈 Upcoming Listings
 - **BitMart:** KuttCoin will be listed on BitMart starting from 01/11/2024 with trading pairs USDT and BTC.
