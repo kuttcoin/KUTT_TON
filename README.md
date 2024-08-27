@@ -14,7 +14,9 @@ The low initial price is designed to encourage widespread distribution, allowing
 
 ### 🪙 Mining KuttCoin
 
-- You can mine KuttCoin using our exclusive bot: @kuttcoin_bot! The bot mines 0.000000000000000001 KUTT every 5 seconds. Users can redeem their mined KUTT once they reach a balance of 1.5 KUTT.
+- You can mine KuttCoin using our exclusive bot: [@kuttcoin_bot](https://t.me/kuttcoin_bot)! 
+- The bot mines **0.000000000000000001 KUTT** every **5 seconds**. 
+- Users can redeem their mined KUTT once they reach a balance of **1.5 KUTT**.
 
 Get started with mining and be a part of the KuttCoin revolution!
 
