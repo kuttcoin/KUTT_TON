@@ -1,4 +1,4 @@
-# KuttCoin (KUTT)
+# ![KuttCoin Logo](https://github.com/kuttcoin/logo_kutt/blob/main/kutt64x64.png) KuttCoin (KUTT)
 
 **Name:** KuttCoin  
 **Ticker:** KUTT  
