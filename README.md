@@ -25,4 +25,4 @@
 
 ## CMC
 
-**Coingecko Terminal:** [Coingecko] (https://www.geckoterminal.com/ton/pools/EQBUednBQrxlY_J-udO3PhUdlP1VMv5YSyYVHQMt_VCsMEVr)
+**Coingecko Terminal:** [Coingecko](https://www.geckoterminal.com/ton/pools/EQBUednBQrxlY_J-udO3PhUdlP1VMv5YSyYVHQMt_VCsMEVr)
