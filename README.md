@@ -15,14 +15,16 @@
 
 **Ton Diamonds:** [Trade KUTT on Ton Diamonds](https://ton.diamonds/dex/swap?ref=EQDCH6vT0MvVp0bBYNjoONpkgb51NMPNOJXFQWG54XoIAs5Y&inputToken=TON&outputToken=EQCGcF2amuyOthwF2PBN_qdKb-XXpR8Jbf3zRmS2ayLKcYzw)
 
-## Mining Bot
+## Mining KuttCoin
 
-**Telegram Mining Bot:** [@kuttcoin_bot](https://t.me/kuttcoin_bot)
+**Mining KuttCoin :** [Mining](https://kuttcoin.com)
 
 ## Official Community
 
 **Telegram Community:** [@KuttCoin](https://t.me/KuttCoin)
-
+**Twitter/X Community:** [@Kutt_Coin](https://x.com/Kutt_Coin)
+**VK:** [@KuttCoin](https://vk.com/KuttCoin)
 ## CMC
 
 **Coingecko Terminal:** [Coingecko](https://www.geckoterminal.com/ton/pools/EQBUednBQrxlY_J-udO3PhUdlP1VMv5YSyYVHQMt_VCsMEVr)
+**CoinmarketCap DexScan:** [CoinmarketCap](https://coinmarketcap.com/dexscan/ton/EQBUednBQrxlY_J-udO3PhUdlP1VMv5YSyYVHQMt_VCsMEVr/)
