@@ -21,9 +21,9 @@
 
 ## Official Community
 
-**Telegram Community:** [@KuttCoin](https://t.me/KuttCoin)
+**Telegram Community:** [@KuttCoin](https://t.me/KuttCoin_mining)
 **Twitter/X Community:** [@Kutt_Coin](https://x.com/Kutt_Coin)
-**VK:** [@KuttCoin](https://vk.com/KuttCoin)
+
 ## CMC
 
 **Coingecko Terminal:** [Coingecko](https://www.geckoterminal.com/ton/pools/EQBUednBQrxlY_J-udO3PhUdlP1VMv5YSyYVHQMt_VCsMEVr)
