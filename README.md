@@ -13,18 +13,18 @@
 
 ## DEX Trading
 
-**Ton Diamonds:** [Trade KUTT on Ton Diamonds](https://ton.diamonds/dex/swap?ref=EQDCH6vT0MvVp0bBYNjoONpkgb51NMPNOJXFQWG54XoIAs5Y&inputToken=TON&outputToken=EQCGcF2amuyOthwF2PBN_qdKb-XXpR8Jbf3zRmS2ayLKcYzw)
+- **Ton Diamonds:** [Trade KUTT on Ton Diamonds](https://ton.diamonds/dex/swap?ref=EQDCH6vT0MvVp0bBYNjoONpkgb51NMPNOJXFQWG54XoIAs5Y&inputToken=TON&outputToken=EQCGcF2amuyOthwF2PBN_qdKb-XXpR8Jbf3zRmS2ayLKcYzw)
 
 ## Mining KuttCoin
 
-**Mining KuttCoin :** [Mining](https://kuttcoin.com)
+- **Mining KuttCoin :** [Mining](https://kuttcoin.com)
 
 ## Official Community
 
-**Telegram Community:** [@KuttCoin](https://t.me/KuttCoin_mining)
-**Twitter/X Community:** [@Kutt_Coin](https://x.com/Kutt_Coin)
+- **Telegram Community:** [@KuttCoin](https://t.me/KuttCoin_mining)
+- **Twitter/X Community:** [@Kutt_Coin](https://x.com/Kutt_Coin)
 
 ## CMC
 
-**Coingecko Terminal:** [Coingecko](https://www.geckoterminal.com/ton/pools/EQBUednBQrxlY_J-udO3PhUdlP1VMv5YSyYVHQMt_VCsMEVr)
-**CoinmarketCap DexScan:** [CoinmarketCap](https://coinmarketcap.com/dexscan/ton/EQBUednBQrxlY_J-udO3PhUdlP1VMv5YSyYVHQMt_VCsMEVr/)
+- **Coingecko Terminal:** [Coingecko](https://www.geckoterminal.com/ton/pools/EQBUednBQrxlY_J-udO3PhUdlP1VMv5YSyYVHQMt_VCsMEVr)
+- **CoinmarketCap DexScan:** [CoinmarketCap](https://coinmarketcap.com/dexscan/ton/EQBUednBQrxlY_J-udO3PhUdlP1VMv5YSyYVHQMt_VCsMEVr/)
